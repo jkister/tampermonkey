@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         IPAddrInfo
 // @namespace    net.kister.ipaddrinfo
-// @description  Highlight an IPv4/IPv6 address (optionally in CIDR form) to see its IP assignment / Whois information in a toast popup
-// @downloadURL  https://raw.githubusercontent.com/jkister/aws/main/tampermonkey/IPAddrInfo.user.js
-// @updateURL    https://raw.githubusercontent.com/jkister/aws/main/tampermonkey/IPAddrInfo.user.js
-// @homepage     https://github.com/jkister/aws/tampermonkey
+// @description  Highlight an IPv4/IPv6 address to see its IP assignment / Whois information in a toast popup
+// @downloadURL  https://raw.githubusercontent.com/jkister/tampermonkey/main/src/IPAddrInfo.user.js
+// @updateURL    https://raw.githubusercontent.com/jkister/tampermonkey/main/src/IPAddrInfo.user.js
+// @homepage     https://github.com/jkister/tampermonkey
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=arin.net
 // @version      20261008.01
 // @author       jkister
